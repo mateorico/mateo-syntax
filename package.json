@@ -2,7 +2,7 @@
   "name": "mateo-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "A short description of your syntax theme",
+  "description": "A simple gray scale syntax theme, based on Batman Dark Knight colors",
   "keywords": [
     "syntax",
     "theme"
